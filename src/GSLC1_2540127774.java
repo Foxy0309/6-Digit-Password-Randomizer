@@ -87,7 +87,6 @@ public class GSLC1_2540127774 {
         		choice = option.nextLine();
         		System.out.println();
         		
-        		
         	} 
         	
         	else if(choice.equals("N")){
