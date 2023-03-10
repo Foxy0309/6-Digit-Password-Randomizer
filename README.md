@@ -3,6 +3,8 @@ This program is as simple as it sounds; it automatically generates a random 6-di
 # Modules
 randomizer(String[] arr)                    : Takes an array as a parameter, then returns a random element from the array using the Random class.
 
-String ordershuffle(String string)          : Uses a string as a parameter and shuffles the characters using the Fisher-Yates shuffle algorithm.
+ordershuffle(String string)          : Uses a string as a parameter and shuffles the characters using the Fisher-Yates shuffle algorithm.
 
-String generator() and String generator1()  : Both of these methods use the randomizer method and combine them into a password, before using the ordershuffle method to shuffle the password characters' positions.
+generator() and generator1()  : Both of these methods use the randomizer method and combine them into a password, before using the ordershuffle method to shuffle the password characters' positions.
+
+main(String[] args)                         : Finally, the main method prints the output by calling the generator methods before beginning a loop asking whether or not the user wants to generate another password or not.
