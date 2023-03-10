@@ -5,4 +5,4 @@ randomizer(String[] arr)                    : Takes an array as a parameter, the
 
 String ordershuffle(String string)          : Uses a string as a parameter and shuffles the characters using the Fisher-Yates shuffle algorithm.
 
-String generator() and String generator1()  : This method uses the randomizer method to select a random character from each array and combine them into a password, before using the ordershuffle method to shuffle the password characters.
+String generator() and String generator1()  : Both of these methods use the randomizer method and combine them into a password, before using the ordershuffle method to shuffle the password characters' positions.
