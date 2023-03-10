@@ -14,4 +14,8 @@ Here is a brief overview on how the program works
 
 <img width="300" alt="random1" src="https://user-images.githubusercontent.com/126550095/224322408-92598f15-83fb-40ee-b613-c4b82b91e170.png">
 
-Once the user runs the program, it immediately presents them with a random 6-digit string consisting of the aforementioned characters.
+Once the user runs the program, it immediately presents them with a random 6-digit string consisting of the aforementioned characters. Afterwards, the program also prompts the user to input Y or N, asking the user whether they want to generate a new string or not. If the user inputs anything else other than Y or N, the program will prompt them again until the user inputs a valid option like so.
+
+<img width="201" alt="example" src="https://user-images.githubusercontent.com/126550095/224322909-a17bcae6-2922-40a9-be11-596a2ff2ea34.png">
+
+
