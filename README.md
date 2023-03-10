@@ -18,4 +18,6 @@ Once the user runs the program, it immediately presents them with a random 6-dig
 
 <img width="400" alt="example" src="https://user-images.githubusercontent.com/126550095/224322909-a17bcae6-2922-40a9-be11-596a2ff2ea34.png">
 
+If the user inputs N, the program will bid them goodbye and end the loop.
+
 
